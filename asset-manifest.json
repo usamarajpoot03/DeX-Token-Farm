@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Token-Farming/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Token-Farming/static/js/main.64a5493f.chunk.js",
+    "main.js.map": "/Token-Farming/static/js/main.64a5493f.chunk.js.map",
+    "runtime-main.js": "/Token-Farming/static/js/runtime-main.01f2331b.js",
+    "runtime-main.js.map": "/Token-Farming/static/js/runtime-main.01f2331b.js.map",
+    "static/js/2.912d9b7f.chunk.js": "/Token-Farming/static/js/2.912d9b7f.chunk.js",
+    "static/js/2.912d9b7f.chunk.js.map": "/Token-Farming/static/js/2.912d9b7f.chunk.js.map",
+    "index.html": "/Token-Farming/index.html",
+    "precache-manifest.e2e66068cbab44952931f3f7627b46ea.js": "/Token-Farming/precache-manifest.e2e66068cbab44952931f3f7627b46ea.js",
+    "service-worker.js": "/Token-Farming/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Token-Farming/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01f2331b.js",
+    "static/js/2.912d9b7f.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.64a5493f.chunk.js"
+  ]
+}
